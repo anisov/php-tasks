@@ -1,0 +1,10 @@
+
+\.idea/modules\.xml
+
+*.iml
+
+\.idea/php\.xml
+
+\.idea/vcs\.xml
+
+\.idea/workspace\.xml
